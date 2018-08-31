@@ -8,5 +8,7 @@ public class KafkaPocApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(KafkaPocApplication.class, args);
+		
+		
 	}
 }
